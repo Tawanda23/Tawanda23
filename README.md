@@ -12,7 +12,7 @@ tawanda_mafukidze {
 }
 ```
 
-I am a Junior DevOps Engineer with a passion for cloud computing and all things Artificial Intelligence. I am interested in Kubernetes for containerisation and Terraform for Infrastructure provisioning. I am currently working on improving my knowledge on AWS.
+I am a Software Developer with a passion for DevOps and cloud computing. I am interested in Kubernetes for containerisation and Terraform for Infrastructure provisioning. I am currently working on improving my knowledge on AWS and Javascript frameworks.
 
 <!--
 **Tawanda23/Tawanda23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
