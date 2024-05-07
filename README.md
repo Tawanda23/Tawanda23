@@ -30,8 +30,10 @@ Here are some of the tools and languages I have experience with and use in proje
 
 ## 👩🏾‍💻 Currently Working On..
 
+<p align="center">
 <img align="centre" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
 <img align="centre" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+</p>
 
 ## 📊 GitHub Stats
 
