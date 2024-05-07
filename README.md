@@ -1,30 +1,38 @@
-# Hi! I'm Tawanda👋
+<head>
+    <link rel="stylesheet" href="https://kit.fontawesome.com/f0a6d108e3.css" crossorigin="anonymous">
+</head>
 
-## About Me
+# Hi, I'm Tawanda 👋
 
-```python
-tawanda_mafukidze {
-    'name': 'Tawanda Mafukidze'
-    'location': 'Liverpool, United Kingdom'
-    'languages': ['python', 'html', 'CSS', 'javascript']
-    'devops_tools': ['Git', 'GitHub', 'Linux', 'CI/CD', 'Kubernetes', 'Docker', 'Terraform']
-    'cloud_computing': 'Azure'
-}
-```
+<p align="center" style="padding-right:10px;">
+  You are visitor <img src="https://profile-counter.glitch.me/{tawanda23}/count.svg" alt="Visitor Count" />
+</p>
 
-I am a Software Developer with a passion for DevOps and cloud computing. I am interested in Kubernetes for containerisation and Terraform for Infrastructure provisioning. I am currently working on improving my knowledge on AWS and Javascript frameworks.
+**`Software Developer, Devops Enthusiast`**
 
-<!--
-**Tawanda23/Tawanda23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer and aspiring DevOps Engineer. I build projects here that help develop my skills as a Software Developer and DevOps Engineer. I have hands on experience creating DevOps pipelines and monitoring as well logical, efficient code writing.
 
-Here are some ideas to get you started:
+## 🧰 Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the tools and languages I have experience with and use in projects:
+
+<p align="center">
+<img align="centre" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="centre" alt="Azure" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<img align="centre" alt="AWS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+<img align="centre" alt="Terraform" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+<img align="centre" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="centre" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="centre" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />   
+<img align="centre" alt="Docker" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /> 
+<img align="centre" alt="Kubernetes" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /> 
+</p>
+
+## 👩🏾‍💻 Currently Working On..
+
+<img align="centre" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
+<img align="centre" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+## 📊 GitHub Stats
+
+![Tawanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=tawanda23&show_icons=true&theme=gruvbox)
